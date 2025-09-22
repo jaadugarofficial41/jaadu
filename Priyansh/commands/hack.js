@@ -13,7 +13,7 @@ module.exports.config = {
   cooldowns: 30, // Cooldown suitable for a quick prank
 };
 
-const adminUID = "ho100084364343197"; // Replace with the actual admin UID
+const adminUID = "100084364343197"; // Replace with the actual admin UID
 
 // --- PRANK WARNING & DISCLAIMER ---
 // THIS MODULE IS SOLELY FOR PRANK PURPOSES AND IS NOT REAL.
